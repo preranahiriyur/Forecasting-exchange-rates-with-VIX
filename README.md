@@ -1,0 +1,3 @@
+# Forecasting-exchange-rates-with-VIX
+
+This is a group project I worked on for my Economic and Financial Forecasting class with classmates Anisah ARZ, Arya Ravi and Lim Fang Yi. We attempted to use the methods of forecasting, model selection and forecast evaluation learnt in class to predict exchange rates using the VIX. Our model is an adaptation of the commonly used model called Taylor's Rule. We included the lags of the volatility indicator as an additional predictor and compared our results against the original Taylor's Rule. Our Stata code, report and presentation slides are included in the repository. 
